@@ -1,0 +1,32 @@
+_repo: The-Winning-of-Barbara-Worth_6997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Harold Bell
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '1146'
+    url: http://www.gutenberg.org/2009/agents/1146
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
+description: Barbara Worth, the adopted daughter of a benevolent capitalist, dreams
+  of turning California's Imperial Valley into a fertile land. Her dream goes awry
+  when the reclamation is begun by a corporation which cares only for profit, and
+  not for safety. During her battle with greedy land barons, she falls in love with
+  a young engineer from the East.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Desert reclamation -- California -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Love stories'
+- GITenberg
+title: The Winning of Barbara Worth
+url: http://www.gutenberg.org/ebooks/6997
